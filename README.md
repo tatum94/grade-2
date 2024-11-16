@@ -1,6 +1,6 @@
 ## Chapter 1: Grammar  
 
----
+
 
 ### **3. Grammar**  
 
@@ -182,9 +182,6 @@ Write sentences using **on, in, under, to, from**, etc., in your notebook.
 <hr style="height:3px; border:none; background-color:black;" />
 
 ## Chapter 4: Pronouns  
-
----
-
 ### **Pronouns (Substitution Words)**  
 
 #### **Read Me:**  
