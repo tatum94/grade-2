@@ -11,7 +11,7 @@ A **noun** is the name of a person, place, animal, or thing.
 - garden  
 - book  
 
--  
+--
 
 #### **I. Match the objects with the naming words:**  
 - **Objects:**  
@@ -23,7 +23,7 @@ A **noun** is the name of a person, place, animal, or thing.
 
 *(An illustration is shown with these items in a park-like setting.)*  
 
--  
+--  
 
 #### **II. Think of some naming words. Write them in the given columns.**  
 
@@ -31,11 +31,11 @@ A **noun** is the name of a person, place, animal, or thing.
 |---------------------|----------------|-----------------|----------------|
 | *(To be filled by students)* |                |                 |                |  
 
--  
+--  
 
 #### **III. Write five naming words in your notebook and use them in sentences.**  
 
--  
+-- 
 
 ### **Pronouns (Substitution Words)**  
 
