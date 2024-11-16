@@ -8,8 +8,7 @@
 A **noun** is the name of a person, place, animal, or thing.  
 
 **Examples:** the boy, river, garden, book, etc.  
-
----
+-
 
 #### **I. Match the objects with the naming words:**  
 - **Objects:**  
