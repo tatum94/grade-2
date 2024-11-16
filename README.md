@@ -1,13 +1,6 @@
-
-
-
 ## **Chapter 1: Grammar**  
 
----
-
 ### **3. Grammar**  
-
----
 
 #### **Nouns (Naming Words)**  
 A **noun** is the name of a person, place, animal, or thing.  
@@ -18,7 +11,7 @@ A **noun** is the name of a person, place, animal, or thing.
 - garden  
 - book  
 
----
+-  
 
 #### **I. Match the objects with the naming words:**  
 - **Objects:**  
@@ -30,7 +23,7 @@ A **noun** is the name of a person, place, animal, or thing.
 
 *(An illustration is shown with these items in a park-like setting.)*  
 
----
+-  
 
 #### **II. Think of some naming words. Write them in the given columns.**  
 
@@ -38,15 +31,13 @@ A **noun** is the name of a person, place, animal, or thing.
 |---------------------|----------------|-----------------|----------------|
 | *(To be filled by students)* |                |                 |                |  
 
----
+-  
 
 #### **III. Write five naming words in your notebook and use them in sentences.**  
 
----
+-  
 
 ### **Pronouns (Substitution Words)**  
-
----
 
 A **pronoun** is a word that substitutes for a noun.  
 
@@ -56,7 +47,7 @@ A **pronoun** is a word that substitutes for a noun.
 - It  
 - They  
 
----
+-  
 
 #### **Sentences using pronouns in the subjective case:**  
 1. She is a good girl.  
@@ -66,17 +57,13 @@ A **pronoun** is a word that substitutes for a noun.
 5. I like to eat vegetables.  
 6. We are happy.  
 
----
+
 
 <hr style="height:3px; border:none; background-color:black;" />
 
 ## **Chapter 2: Grammar**  
 
----
-
 ### **Adjectives (Describing Words)**  
-
----
 
 #### **Read Me:**  
 Adjectives describe the qualities or characteristics of a noun. They help us understand more about the person, place, or thing being talked about. Adjectives often have opposites.  
@@ -86,14 +73,14 @@ Adjectives describe the qualities or characteristics of a noun. They help us und
 - clean ↔ dirty  
 - happy ↔ sad  
 
----
+-  
 
 #### **Examples of Adjective Pairs:**  
 1. black ↔ white  
 2. clean ↔ dirty  
 3. heavy ↔ light  
 
----
+-  
 
 #### **II. Match each adjective with its opposite:**  
 - **Pairs:**  
@@ -103,11 +90,9 @@ Adjectives describe the qualities or characteristics of a noun. They help us und
   - Happy ↔ Sad  
   - Long ↔ Short  
 
----
+-  
 
 ### **Action Words (Verbs)**  
-
----
 
 #### **Read Me:**  
 Action words, also known as verbs, describe actions or things people do. They tell us about movements or activities.  
@@ -118,14 +103,14 @@ Action words, also known as verbs, describe actions or things people do. They te
 - Eat  
 - Drink  
 
----
+-  
 
 #### **III. Identify the action words in these sentences:**  
 1. I help my mother with her home tasks.  
 2. He reads a funny story.  
 3. Maha eats an egg daily.  
 
----
+-  
 
 #### **IV. Complete the sentences using action words:**  
 
@@ -138,24 +123,20 @@ Action words, also known as verbs, describe actions or things people do. They te
 5. Saad ______ a letter to his mother.  
 6. Maha's mother ______ tasty food.  
 
----
+
 
 <hr style="height:3px; border:none; background-color:black;" />
 
 ## **Chapter 3: Grammar**  
 
----
-
 ### **Singular and Plural Nouns**  
-
----
 
 #### **Read Me:**  
 - **Singular Nouns** refer to one person or thing, e.g., *a plant, a glass.*  
 - **Plural Nouns** refer to more than one person or thing, e.g., *two plants, ten glasses.*  
 - Nouns ending in **'s', 'x', 'z', 'ch', 'o', 'sh'** add **'es'** in the plural, e.g., *boxes, classes.*  
 
----
+-  
 
 #### **Examples:**  
 - Singular → Plural  
@@ -164,7 +145,7 @@ Action words, also known as verbs, describe actions or things people do. They te
   - *box → boxes*  
   - *glass → glasses*  
 
----
+-  
 
 #### **Activity: Change the number of these nouns:**  
 
@@ -177,11 +158,9 @@ Action words, also known as verbs, describe actions or things people do. They te
 | boy                | ____________        |  
 | bird               | ____________        |  
 
----
+-  
 
 ### **Position Words**  
-
----
 
 #### **Read Me:**  
 Position words tell us the location of something.  
@@ -191,34 +170,30 @@ Position words tell us the location of something.
 2. The football is **in** the box.  
 3. A cat is sitting **under** the table.  
 
----
+-  
 
 #### **Activity:** Fill in the blanks with position words:  
 1. They are going __________ Lahore from Multan.  
 2. The monkey is sitting __________ the box.  
 3. The fish is __________ the box.  
 
----
+-  
 
 #### **Create sentences using position words:**  
 Write sentences using **on, in, under, to, from**, etc., in your notebook.  
 
----
+
 
 <hr style="height:3px; border:none; background-color:black;" />
 
 ## **Chapter 4: Pronouns**  
 
----
-
 ### **Pronouns (Substitution Words)**  
-
----
 
 #### **Read Me:**  
 Pronouns are words that replace nouns.  
 
----
+-  
 
 #### **Examples:**  
 1. Nora is my cousin. *She* is a good girl.  
@@ -229,7 +204,7 @@ Pronouns are words that replace nouns.
 6. I am Usman. *I* am a boy.  
 7. Hello, Nora. *You* are a good swimmer.  
 
----
+-  
 
 #### **Activity: Choose the correct pronoun and fill in the blanks:**  
 1. Sadia is a good girl. ______ obeys her parents. (he/she)  
@@ -238,16 +213,14 @@ Pronouns are words that replace nouns.
 4. The cat is hungry. ______ wants to drink milk. (you/it)  
 5. Umair and I are best friends. ______ play football together. (we/he)  
 
----
+-  
 
 ### **Pronouns as Objective Case**  
-
----
 
 #### **Read Me:**  
 Pronouns in the objective case refer to the person or thing receiving the action in a sentence.  
 
----
+-  
 
 #### **Examples:**  
 1. He likes Umer. Umer likes *him*.  
@@ -258,16 +231,14 @@ Pronouns in the objective case refer to the person or thing receiving the action
 6. You like Hira. Hira likes *you*.  
 7. They play with Wasim. Wasim plays with *them*.  
 
----
+-  
 
 ### **Use of "is," "am," and "are"**  
-
----
 
 #### **Read Me:**  
 Use "is," "am," and "are" with pronouns and pointing words to describe people, places, or things.  
 
----
+-  
 
 #### **Activity:** Fill in the blanks:  
 1. Sa’ad ______ a handsome boy.  
