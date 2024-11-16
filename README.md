@@ -1,14 +1,24 @@
-## Chapter 1: Grammar  
 
 
+
+## **Chapter 1: Grammar**  
+
+---
 
 ### **3. Grammar**  
+
+---
 
 #### **Nouns (Naming Words)**  
 A **noun** is the name of a person, place, animal, or thing.  
 
-**Examples:** the boy, river, garden, book, etc.  
--
+**Examples:**  
+- the boy  
+- river  
+- garden  
+- book  
+
+---
 
 #### **I. Match the objects with the naming words:**  
 - **Objects:**  
@@ -18,15 +28,15 @@ A **noun** is the name of a person, place, animal, or thing.
   - Tree  
   - Ball  
 
-(An illustration is shown with these items in a park-like setting.)  
+*(An illustration is shown with these items in a park-like setting.)*  
 
 ---
 
 #### **II. Think of some naming words. Write them in the given columns.**  
 
-| **People**     | **Places**    | **Animals**    | **Things**    |
-|-----------------|--------------|----------------|---------------|
-| (To be filled by students) |              |                |               |
+| **People**         | **Places**     | **Animals**     | **Things**     |
+|---------------------|----------------|-----------------|----------------|
+| *(To be filled by students)* |                |                 |                |  
 
 ---
 
@@ -35,9 +45,16 @@ A **noun** is the name of a person, place, animal, or thing.
 ---
 
 ### **Pronouns (Substitution Words)**  
+
+---
+
 A **pronoun** is a word that substitutes for a noun.  
 
-**Examples:** She, He, It, They, etc.  
+**Examples:**  
+- She  
+- He  
+- It  
+- They  
 
 ---
 
@@ -51,13 +68,15 @@ A **pronoun** is a word that substitutes for a noun.
 
 ---
 
-<hr style="height:3px; border:none; background-color:white;" />
+<hr style="height:3px; border:none; background-color:black;" />
 
-## Chapter 2: Grammar  
+## **Chapter 2: Grammar**  
 
 ---
 
 ### **Adjectives (Describing Words)**  
+
+---
 
 #### **Read Me:**  
 Adjectives describe the qualities or characteristics of a noun. They help us understand more about the person, place, or thing being talked about. Adjectives often have opposites.  
@@ -88,6 +107,8 @@ Adjectives describe the qualities or characteristics of a noun. They help us und
 
 ### **Action Words (Verbs)**  
 
+---
+
 #### **Read Me:**  
 Action words, also known as verbs, describe actions or things people do. They tell us about movements or activities.  
 
@@ -107,7 +128,8 @@ Action words, also known as verbs, describe actions or things people do. They te
 ---
 
 #### **IV. Complete the sentences using action words:**  
-- **Action Words:** help, writes, cleans, reads, plays, cooks  
+
+**Action Words:** help, writes, cleans, reads, plays, cooks  
 
 1. Maha ______ her room.  
 2. They ______ storybooks.  
@@ -116,15 +138,17 @@ Action words, also known as verbs, describe actions or things people do. They te
 5. Saad ______ a letter to his mother.  
 6. Maha's mother ______ tasty food.  
 
----  
+---
 
 <hr style="height:3px; border:none; background-color:black;" />
 
-## Chapter 3: Grammar  
+## **Chapter 3: Grammar**  
 
 ---
 
 ### **Singular and Plural Nouns**  
+
+---
 
 #### **Read Me:**  
 - **Singular Nouns** refer to one person or thing, e.g., *a plant, a glass.*  
@@ -143,18 +167,21 @@ Action words, also known as verbs, describe actions or things people do. They te
 ---
 
 #### **Activity: Change the number of these nouns:**  
-| Singular | Plural        |  
-|----------|---------------|  
-| tree     | ____________  |  
-| watch    | ____________  |  
-| fox      | ____________  |  
-| hero     | ____________  |  
-| boy      | ____________  |  
-| bird     | ____________  |  
+
+| Singular           | Plural              |  
+|---------------------|---------------------|  
+| tree               | ____________        |  
+| watch              | ____________        |  
+| fox                | ____________        |  
+| hero               | ____________        |  
+| boy                | ____________        |  
+| bird               | ____________        |  
 
 ---
 
 ### **Position Words**  
+
+---
 
 #### **Read Me:**  
 Position words tell us the location of something.  
@@ -180,8 +207,13 @@ Write sentences using **on, in, under, to, from**, etc., in your notebook.
 
 <hr style="height:3px; border:none; background-color:black;" />
 
-## Chapter 4: Pronouns  
+## **Chapter 4: Pronouns**  
+
+---
+
 ### **Pronouns (Substitution Words)**  
+
+---
 
 #### **Read Me:**  
 Pronouns are words that replace nouns.  
@@ -210,6 +242,8 @@ Pronouns are words that replace nouns.
 
 ### **Pronouns as Objective Case**  
 
+---
+
 #### **Read Me:**  
 Pronouns in the objective case refer to the person or thing receiving the action in a sentence.  
 
@@ -228,6 +262,8 @@ Pronouns in the objective case refer to the person or thing receiving the action
 
 ### **Use of "is," "am," and "are"**  
 
+---
+
 #### **Read Me:**  
 Use "is," "am," and "are" with pronouns and pointing words to describe people, places, or things.  
 
@@ -241,8 +277,4 @@ Use "is," "am," and "are" with pronouns and pointing words to describe people, p
 5. I ______ seven years old.  
 6. These ______ their crayons.  
 7. She ______ a good student.  
-
----  
-
-<hr style="height:3px; border:none; background-color:white;" />
 
